@@ -1,0 +1,6 @@
+{
+  "name": "grass-tracker",
+  "description": "grass-tracker: a GitHub-style contribution grid of your Claude Code token usage",
+  "owner": { "name": "Norihiro Nakamura" },
+  "plugins": [{ "name": "grass-tracker", "source": "./" }]
+}

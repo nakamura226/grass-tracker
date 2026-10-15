@@ -1,0 +1,11 @@
+{
+  "name": "grass-tracker",
+  "version": "0.1.0",
+  "description": "GitHub-style contribution grid of your Claude Code token usage: a 24-hour bar above the prompt and /grass for the calendar and weekday × hour heatmap",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Norihiro Nakamura"
+  },
+  "repository": "https://github.com/nakamura226/grass-tracker",
+  "license": "MIT"
+}
